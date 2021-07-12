@@ -1,0 +1,28 @@
+h2{
+    color: grey;
+}
+
+thead{
+    background-color: grey;
+    color: white;
+    border: 1px solid black;
+}
+
+.full{
+    border: 1px solid black;
+    width: 120px;
+    height: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.empty{
+    border: 1px solid black;
+    width: 120px;
+    height: 80px;
+    background-color: lightgrey;
+}
